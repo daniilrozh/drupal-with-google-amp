@@ -1,0 +1,13 @@
+name: amp_metadata_logo_600x60
+label: 'AMP Metadata: Logo (600x60)'
+effects:
+  e3b08820-12f7-4cf1-9f6a-25e493a1345c:
+    id: image_scale
+    data:
+      width: 600
+      height: 60
+      upscale: false
+    weight: 1
+    uuid: e3b08820-12f7-4cf1-9f6a-25e493a1345c
+langcode: en
+dependencies: {  }
